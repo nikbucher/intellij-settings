@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[syr-objektverwaltung-server_main] - .../server/src/main/java/com/adcubum/tool/syrobjektverw/ApplicationConfig.java'" />
-    <option name="defaultScopeName" value="File '[syr-objektverwaltung-server_main] - .../server/src/main/java/com/adcubum/tool/syrobjektverw/ApplicationConfig.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[syr-objektverwaltung-server_main] - .../server/src/main/java/com/adcubum/tool/syrobjektverw/ApplicationConfig.java'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
