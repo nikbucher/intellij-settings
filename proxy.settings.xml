@@ -1,6 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="USE_PROXY_PAC" value="true" />
-    <option name="PAC_URL" value=" bridge" />
-  </component>
-</application>
