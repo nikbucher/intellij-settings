@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Comments/Replace with End Of Line Comment" />
+  </component>
+</application>
